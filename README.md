@@ -5,7 +5,7 @@ I like to build things :)
 Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 
 ### You can reach me at the Ebook2Audiobook discord server.
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/bg5Kx43c6w)](https://discord.gg/bg5Kx43c6w)
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/63Tv3F65k6)](https://discord.gg/63Tv3F65k6)
 
 
 ## Star History
