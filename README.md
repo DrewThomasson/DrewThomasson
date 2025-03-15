@@ -18,6 +18,8 @@ Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2
  </picture>
 </a>
 
+
+![](https://komarev.com/ghpvc/?username=DrewThomasson)
 <!---
 DrewThomasson/DrewThomasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
