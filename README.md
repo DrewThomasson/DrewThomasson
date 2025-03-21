@@ -26,6 +26,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+Custom Quote Identification Attribution Pipeline
+Designed a custom pipeline for quote identification and attribution using Bert and Distil-GPT2 models.
+Project details and dataset: huggingface.co/drewThomasson/BERTandGPT2VoxNovelPipelineV1
+
+
+
 
 
 Ebook2AudiobookStyleTTS2: github.com/DrewThomasson/ebook2audiobookSTYLETTS2
