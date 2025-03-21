@@ -24,3 +24,20 @@ Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2
 DrewThomasson/DrewThomasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+Ebook2AudiobookStyleTTS2: github.com/DrewThomasson/ebook2audiobookSTYLETTS2
+Ebook2AudiobookXTTS: github.com/DrewThomasson/ebook2audiobookXTTS
+Ebook2AudiobookPiperTTS: github.com/DrewThomasson/ebook2audiobookpiper-tts
+Ebook2AudiobookSparkTTS: huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS
+Doc2 Interview: github.com/DrewThomasson/doc2interview
+LiveWordTracker (school project): github.com/DrewThomasson/liveWordTracker
+Diagno-AI (Ai therapist Built in Hackathon) github.com/DrewThomasson/Diagno-AI
+OfflineYoutube (Has pip install): github.com/DrewThomasson/Diagno-AI
+easyTrainGpt2: github.com/DrewThomasson/easy_train_gpt2
+Auto-Scalable Speaker Attribution Dataset: github.com/DrewThomasson/Auto-Scalable-Speaker-Attribution-dataset
+Whisper Search Auto: github.com/DrewThomasson/Whisper_auto_search
+Coqui TTS: github.com/idiap/coqui-ai-TTS (Contributed to Open-source project: Helped add new Models) 
+xtts-finetune-webui : github.com/daswer123/xtts-finetune-webui (Contributed to Open-source project:Added extra functionality + pre built DockerImage)
