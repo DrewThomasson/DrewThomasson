@@ -29,24 +29,35 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Custom Quote Identification Attribution Pipeline
+# Advanced Machine learning training projects: 
+
+**Custom Quote Identification Attribution Pipeline**
 Designed a custom pipeline for quote identification and attribution using Bert and Distil-GPT2 models.
 Project details and dataset: huggingface.co/drewThomasson/BERTandGPT2VoxNovelPipelineV1
 
 
+# Other Side-Projects by me:
 
+## Text-to-Speech Projects
+- **[Ebook2AudiobookStyleTTS2](https://github.com/DrewThomasson/ebook2audiobookSTYLETTS2)** - A variant of Ebook2Audiobook using StyleTTS.
+- **[Ebook2AudiobookPiperTTS](https://github.com/DrewThomasson/ebook2audiobookpiper-tts)** - A variant utilizing PiperTTS.
+- **[Ebook2AudiobookSparkTTS](https://huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS)** - Beta test for using Spark TTS as an ebook reading engine (English only).
 
+## Document Processing & Analysis
+- **[Doc2 Interview](https://github.com/DrewThomasson/doc2interview)** - Converts any document into an interview-style conversation. Runs entirely locally.
+- **[LiveWordTracker (School Project)](https://github.com/DrewThomasson/liveWordTracker)** - Tracks spoken words in real time, including volume and timestamp data.
+- **[Whisper Search Auto](https://github.com/DrewThomasson/Whisper_auto_search)** - Real-time search for relevant document passages based on live audio input.
 
-Ebook2AudiobookStyleTTS2: github.com/DrewThomasson/ebook2audiobookSTYLETTS2
-Ebook2AudiobookXTTS: github.com/DrewThomasson/ebook2audiobookXTTS
-Ebook2AudiobookPiperTTS: github.com/DrewThomasson/ebook2audiobookpiper-tts
-Ebook2AudiobookSparkTTS: huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS
-Doc2 Interview: github.com/DrewThomasson/doc2interview
-LiveWordTracker (school project): github.com/DrewThomasson/liveWordTracker
-Diagno-AI (Ai therapist Built in Hackathon) github.com/DrewThomasson/Diagno-AI
-OfflineYoutube (Has pip install): github.com/DrewThomasson/Diagno-AI
-easyTrainGpt2: github.com/DrewThomasson/easy_train_gpt2
-Auto-Scalable Speaker Attribution Dataset: github.com/DrewThomasson/Auto-Scalable-Speaker-Attribution-dataset
-Whisper Search Auto: github.com/DrewThomasson/Whisper_auto_search
-Coqui TTS: github.com/idiap/coqui-ai-TTS (Contributed to Open-source project: Helped add new Models) 
-xtts-finetune-webui : github.com/daswer123/xtts-finetune-webui (Contributed to Open-source project:Added extra functionality + pre built DockerImage)
+## AI & NLP Projects
+- **[Diagno-AI](https://github.com/DrewThomasson/Diagno-AI)** - An AI therapist built during a hackathon.
+- **[easyTrainGpt2](https://github.com/DrewThomasson/easy_train_gpt2)** - Fine-tune GPT-2 to emulate specific characters using synthetic datasets.
+- **[Auto-Scalable Speaker Attribution Dataset](https://github.com/DrewThomasson/Auto-Scalable-Speaker-Attribution-dataset)** - Automatically creates speaker attribution datasets using GPT-4.
+
+## Media & Utility Tools
+- **[OfflineYoutube](https://github.com/DrewThomasson/Diagno-AI)** - Download and manage YouTube content offline. (`pip install` available)
+
+## Open-Source Contributions
+- **[Coqui TTS](https://github.com/idiap/coqui-ai-TTS)** - Added new models to the open-source project.
+- **[xtts-finetune-webui](https://github.com/daswer123/xtts-finetune-webui)** - Enhanced functionality and created a pre-built Docker image.
+
+Let me know if you need more edits!
