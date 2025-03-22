@@ -2,9 +2,7 @@ Hi, I’m @DrewThomasson
 
 I like to build things :)
 
-Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook)
-
-Which is the world's leading audiobook generator, supporting 1107+ languages!
+Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook). The world's leading audiobook generator, supporting 1107+ languages!
 
 
 ### You can reach me at the Ebook2Audiobook discord server.
@@ -41,10 +39,10 @@ Project details and dataset: huggingface.co/drewThomasson/BERTandGPT2VoxNovelPip
 ## Text-to-Speech Projects
 - **[Ebook2AudiobookStyleTTS2](https://github.com/DrewThomasson/ebook2audiobookSTYLETTS2)** - A variant of Ebook2Audiobook using StyleTTS.
 - **[Ebook2AudiobookPiperTTS](https://github.com/DrewThomasson/ebook2audiobookpiper-tts)** - A variant utilizing PiperTTS.
-- **[Ebook2AudiobookSparkTTS](https://huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS)** - Beta test for using Spark TTS as an ebook reading engine (English only).
-
+- **[Ebook2AudiobookSparkTTS](https://huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS)** - A variant utilizing SparkTTS.
+  
 ## Document Processing & Analysis
-- **[Doc2 Interview](https://github.com/DrewThomasson/doc2interview)** - Converts any document into an interview-style conversation. Runs entirely locally.
+- **[Doc2 Interview](https://github.com/DrewThomasson/doc2interview)** - Converts any document into an interview-style conversation.
 - **[LiveWordTracker (School Project)](https://github.com/DrewThomasson/liveWordTracker)** - Tracks spoken words in real time, including volume and timestamp data.
 - **[Whisper Search Auto](https://github.com/DrewThomasson/Whisper_auto_search)** - Real-time search for relevant document passages based on live audio input.
 
