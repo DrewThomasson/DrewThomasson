@@ -59,5 +59,3 @@ Project details and dataset: huggingface.co/drewThomasson/BERTandGPT2VoxNovelPip
 ## Open-Source Contributions
 - **[Coqui TTS](https://github.com/idiap/coqui-ai-TTS)** - Added new models to the open-source project.
 - **[xtts-finetune-webui](https://github.com/daswer123/xtts-finetune-webui)** - Enhanced functionality and created a pre-built Docker image.
-
-Let me know if you need more edits!
