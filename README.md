@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 # Advanced Machine learning training projects: 
 
 **[Custom Quote Identification Attribution Pipeline](huggingface.co/drewThomasson/BERTandGPT2VoxNovelPipelineV1)**
-A custom pipeline for quote identification and attribution using Bert and Distil-GPT2 models.
+For quote identification and attribution using Bert and Distil-GPT2 models.
 
 
 # Other Side-Projects by me:
