@@ -1,60 +1,72 @@
-Hi, I’m @DrewThomasson
+# Hi, I'm Drew Thomasson 👋
 
-I like to build things :)
+I build open-source AI and media tools that turn difficult technical workflows into software people can actually use.
 
-🌐 **[Visit my portfolio](https://drewthomasson.github.io/)** — selected open-source AI, audio, and developer-tool projects.
+My work focuses on speech synthesis, audiobook automation, local AI, model training, and developer tooling. I enjoy taking ambitious ideas from early experiments through packaging, documentation, cross-platform support, and real-world adoption.
 
-Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook). The world's leading audiobook generator, supporting 1107+ languages!
+[**Portfolio**](https://drewthomasson.github.io/) · [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) · [**Hugging Face**](https://huggingface.co/drewThomasson) · [**Discord community**](https://discord.gg/63Tv3F65k6)
 
+## Featured work
 
-### You can reach me at the Ebook2Audiobook discord server.
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/63Tv3F65k6)](https://discord.gg/63Tv3F65k6)
+### [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 
+An open-source platform for converting ebooks into fully chaptered audiobooks locally on CPU or GPU.
 
-## Star History
+- Earned **19,000+ GitHub stars** and **1,600+ forks**
+- Supports multilingual speech synthesis, voice cloning, OCR, translation, metadata, and multiple ebook and audio formats
+- Provides a Gradio interface, headless CLI, Docker workflows, and remote notebook deployments
+- Runs across Windows, macOS, Linux, Apple Silicon, NVIDIA CUDA, AMD ROCm, Intel XPU, and other hardware targets
+
+### [E2A-SML](https://github.com/DrewThomasson/ebook2audiobook/tree/main/components/E2A-SML)
+
+Automatic multi-character audiobook generation built into the ebook2audiobook ecosystem.
+
+- Identifies characters and attributes dialogue to speakers
+- Produces voice-tagged SML for distinct narrator and character voices
+- Brings the original VoxNovel concept into the actively maintained ebook2audiobook workflow
+
+### [Universal TTS Finetuner](https://github.com/DrewThomasson/ebook2audiobook/tree/main/components/Universal_TTS_Finetune)
+
+A unified environment for training and adapting speech models.
+
+- Supports synthetic-data-assisted voice training workflows
+- Turns short voice references into larger training datasets
+- Enables compact voice models designed for faster, lower-resource deployment
+
+## Selected projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [JellyDisk](https://github.com/DrewThomasson/JellyDisk) | Desktop and CLI media tooling for turning Jellyfin libraries into polished DVD sets |
+| [offlineYoutube](https://github.com/DrewThomasson/offlineYoutube) | Local video downloading, Whisper transcription, embeddings, and semantic search |
+| [VoxNovel](https://github.com/DrewThomasson/VoxNovel) | The legacy predecessor to E2A-SML and an early multi-character audiobook pipeline |
+| [Doc2 Interview](https://github.com/DrewThomasson/doc2interview) | Document processing and AI-generated interview-style conversations |
+| [Custom Quote Attribution Pipeline](https://huggingface.co/drewThomasson/BERTandGPT2VoxNovelPipelineV1) | BERT and DistilGPT-2 experimentation for quotation identification and speaker attribution |
+
+## What I work with
+
+- **Languages:** Python, Go, JavaScript
+- **AI and audio:** TTS, voice cloning, speech-model training, Whisper, NLP, embeddings
+- **Product engineering:** Docker, Gradio, FFmpeg, CLI tools, cross-platform packaging, automated testing
+- **Platforms:** GitHub Actions, Hugging Face, Google Colab, Kaggle
+
+## Open-source contributions
+
+- [Coqui TTS](https://github.com/idiap/coqui-ai-TTS) — contributed additional model support
+- [xtts-finetune-webui](https://github.com/daswer123/xtts-finetune-webui) — improved functionality and produced a pre-built Docker image
+
+## Community and contact
+
+I maintain the ebook2audiobook community and am open to interesting engineering opportunities and collaborations.
+
+[Visit my portfolio](https://drewthomasson.github.io/) or reach me through the [ebook2audiobook Discord community](https://discord.gg/63Tv3F65k6).
+
+## ebook2audiobook growth
 
 <a href="https://star-history.com/#DrewThomasson/ebook2audiobook&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date" />
- </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date">
+    <img alt="ebook2audiobook GitHub star history" src="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date">
+  </picture>
 </a>
-
-
-![](https://komarev.com/ghpvc/?username=DrewThomasson)
-<!---
-DrewThomasson/DrewThomasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-# Advanced Machine learning training projects: 
-
-**[Custom Quote Identification Attribution Pipeline](huggingface.co/drewThomasson/BERTandGPT2VoxNovelPipelineV1)**
-For quote identification and attribution using Bert and Distil-GPT2 models.
-
-
-# Other Side-Projects by me:
-
-## Text-to-Speech Projects
-- **[Ebook2AudiobookStyleTTS2](https://github.com/DrewThomasson/ebook2audiobookSTYLETTS2)** - A variant of Ebook2Audiobook using StyleTTS.
-- **[Ebook2AudiobookPiperTTS](https://github.com/DrewThomasson/ebook2audiobookpiper-tts)** - A variant utilizing PiperTTS.
-- **[Ebook2AudiobookSparkTTS](https://huggingface.co/spaces/drewThomasson/ebook2audiobookSparkTTS)** - A variant utilizing SparkTTS.
-  
-## Document Processing & Analysis
-- **[Doc2 Interview](https://github.com/DrewThomasson/doc2interview)** - Converts any document into an interview-style conversation.
-- **[LiveWordTracker (School Project)](https://github.com/DrewThomasson/liveWordTracker)** - Tracks spoken words in real time, including volume and timestamp data.
-- **[Whisper Search Auto](https://github.com/DrewThomasson/Whisper_auto_search)** - Real-time search for relevant document passages based on live audio input.
-
-## AI & NLP Projects
-- **[Diagno-AI](https://github.com/DrewThomasson/Diagno-AI)** - An AI therapist built during a hackathon.
-- **[easyTrainGpt2](https://github.com/DrewThomasson/easy_train_gpt2)** - Fine-tune GPT-2 to emulate specific characters using synthetic datasets.
-- **[Auto-Scalable Speaker Attribution Dataset](https://github.com/DrewThomasson/Auto-Scalable-Speaker-Attribution-dataset)** - Automatically creates speaker attribution datasets using GPT-4.
-
-## Media & Utility Tools
-- **[OfflineYoutube](https://github.com/DrewThomasson/Diagno-AI)** - Download and manage YouTube content offline. (`pip install` available)
-
-## Open-Source Contributions
-- **[Coqui TTS](https://github.com/idiap/coqui-ai-TTS)** - Added new models to the open-source project.
-- **[xtts-finetune-webui](https://github.com/daswer123/xtts-finetune-webui)** - Enhanced functionality and created a pre-built Docker image.
