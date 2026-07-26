@@ -2,6 +2,8 @@ Hi, I’m @DrewThomasson
 
 I like to build things :)
 
+🌐 **[Visit my portfolio](https://drewthomasson.github.io/)** — selected open-source AI, audio, and developer-tool projects.
+
 Currently Developer of [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook). The world's leading audiobook generator, supporting 1107+ languages!
 
 
