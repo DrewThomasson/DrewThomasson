@@ -6,6 +6,23 @@ My work focuses on speech synthesis, audiobook automation, local AI, model train
 
 [**Portfolio**](https://drewthomasson.github.io/) · [**YouTube**](https://www.youtube.com/@AT-tech-tips) · [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) · [**Hugging Face**](https://huggingface.co/drewThomasson) · [**Discord community**](https://discord.gg/63Tv3F65k6)
 
+## Currently
+
+- Working in information technology at **Adult Swim**
+- Studying at **Georgia State University**
+- Conducting research with the [**Alser Lab**](https://alserlab.github.io/index.html) in GSU's Department of Computer Science
+
+## Recognition
+
+At the Georgia State Undergraduate Research Conference, **ebook2audiobook** received:
+
+- **1st Place — Applied Research and Entrepreneurship**, Poster Presentations
+- **Global Engagement Award**
+
+Project sponsor: Professor Mohammed Alser. [View the official GSURC winners](https://curci.gsu.edu/gsurc/#1775674136848-79edcb94-7e5e).
+
+![Drew Thomasson holding his two Georgia State Undergraduate Research Conference awards](https://drewthomasson.github.io/assets/drew-thomasson-gsurc-awards.jpg)
+
 ## Featured work
 
 ### [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
