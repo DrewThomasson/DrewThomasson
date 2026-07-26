@@ -4,7 +4,7 @@ I build open-source AI and media tools that turn difficult technical workflows i
 
 My work focuses on speech synthesis, audiobook automation, local AI, model training, and developer tooling. I enjoy taking ambitious ideas from early experiments through packaging, documentation, cross-platform support, and real-world adoption.
 
-[**Portfolio**](https://drewthomasson.github.io/) · [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) · [**Hugging Face**](https://huggingface.co/drewThomasson) · [**Discord community**](https://discord.gg/63Tv3F65k6)
+[**Portfolio**](https://drewthomasson.github.io/) · [**YouTube**](https://www.youtube.com/@AT-tech-tips) · [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) · [**Hugging Face**](https://huggingface.co/drewThomasson) · [**Discord community**](https://discord.gg/63Tv3F65k6)
 
 ## Featured work
 
@@ -62,6 +62,6 @@ A unified environment for training and adapting speech models.
 
 I maintain the ebook2audiobook community and am open to interesting engineering opportunities and collaborations.
 
-[Visit my portfolio](https://drewthomasson.github.io/) or reach me through the [ebook2audiobook Discord community](https://discord.gg/63Tv3F65k6).
+[Visit my portfolio](https://drewthomasson.github.io/), watch my tutorials on [YouTube](https://www.youtube.com/@AT-tech-tips), or reach me through the [ebook2audiobook Discord community](https://discord.gg/63Tv3F65k6).
 
 ![Profile views](https://komarev.com/ghpvc/?username=DrewThomasson&style=flat-square&label=Profile+views)
