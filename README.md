@@ -12,7 +12,10 @@ My work focuses on speech synthesis, audiobook automation, local AI, model train
 
 An open-source platform for converting ebooks into fully chaptered audiobooks locally on CPU or GPU.
 
-- Earned **19,000+ GitHub stars** and **1,600+ forks**
+[![GitHub stars](https://img.shields.io/github/stars/DrewThomasson/ebook2audiobook?style=flat-square&logo=github&label=Stars)](https://github.com/DrewThomasson/ebook2audiobook/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DrewThomasson/ebook2audiobook?style=flat-square&logo=github&label=Forks)](https://github.com/DrewThomasson/ebook2audiobook/forks)
+[![Latest release](https://img.shields.io/github/v/release/DrewThomasson/ebook2audiobook?style=flat-square&label=Release)](https://github.com/DrewThomasson/ebook2audiobook/releases/latest)
+
 - Supports multilingual speech synthesis, voice cloning, OCR, translation, metadata, and multiple ebook and audio formats
 - Provides a Gradio interface, headless CLI, Docker workflows, and remote notebook deployments
 - Runs across Windows, macOS, Linux, Apple Silicon, NVIDIA CUDA, AMD ROCm, Intel XPU, and other hardware targets
@@ -61,12 +64,4 @@ I maintain the ebook2audiobook community and am open to interesting engineering 
 
 [Visit my portfolio](https://drewthomasson.github.io/) or reach me through the [ebook2audiobook Discord community](https://discord.gg/63Tv3F65k6).
 
-## ebook2audiobook growth
-
-<a href="https://star-history.com/#DrewThomasson/ebook2audiobook&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date">
-    <img alt="ebook2audiobook GitHub star history" src="https://api.star-history.com/svg?repos=DrewThomasson/ebook2audiobook&type=Date">
-  </picture>
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=DrewThomasson&style=flat-square&label=Profile+views)
