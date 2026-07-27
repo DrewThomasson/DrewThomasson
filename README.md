@@ -58,6 +58,7 @@ A unified environment for training and adapting speech models.
 | Project | What it demonstrates |
 | --- | --- |
 | [JellyDisk](https://github.com/DrewThomasson/JellyDisk) | Desktop and CLI media tooling for turning Jellyfin libraries into polished DVD sets |
+| [Sound Monitor](https://github.com/DrewThomasson/sound-monitor) | Real-time environmental noise collection, analysis, visualization, and evidence-based reporting |
 | [offlineYoutube](https://github.com/DrewThomasson/offlineYoutube) | Local video downloading, Whisper transcription, embeddings, and semantic search |
 | [VoxNovel](https://github.com/DrewThomasson/VoxNovel) | The legacy predecessor to E2A-SML and an early multi-character audiobook pipeline |
 | [Doc2 Interview](https://github.com/DrewThomasson/doc2interview) | Document processing and AI-generated interview-style conversations |
