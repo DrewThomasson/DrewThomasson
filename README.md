@@ -9,6 +9,7 @@ My work focuses on speech synthesis, audiobook automation, local AI, model train
 ## Currently
 
 - Working in information technology at **Adult Swim**
+- Experience with [**Gearbox**](https://gearboxgo.com/)
 - Studying at **Georgia State University**
 - Conducting research with the [**Alser Lab**](https://alserlab.github.io/index.html) in GSU's Department of Computer Science
 
