@@ -38,7 +38,7 @@ An open-source platform for converting ebooks into fully chaptered audiobooks lo
 - Provides a Gradio interface, headless CLI, Docker workflows, and remote notebook deployments
 - Runs across Windows, macOS, Linux, Apple Silicon, NVIDIA CUDA, AMD ROCm, Intel XPU, and other hardware targets
 
-### [E2A-SML](https://github.com/DrewThomasson/ebook2audiobook/tree/main/components/E2A-SML)
+### [E2A-SML](https://github.com/DrewThomasson/E2A-SML)
 
 Automatic multi-character audiobook generation built into the ebook2audiobook ecosystem.
 
@@ -46,7 +46,7 @@ Automatic multi-character audiobook generation built into the ebook2audiobook ec
 - Produces voice-tagged SML for distinct narrator and character voices
 - Brings the original VoxNovel concept into the actively maintained ebook2audiobook workflow
 
-### [Universal TTS Finetuner](https://github.com/DrewThomasson/ebook2audiobook/tree/main/components/Universal_TTS_Finetune)
+### [Universal TTS Finetuner](https://github.com/DrewThomasson/Universal_TTS_Finetune)
 
 A unified environment for training and adapting speech models.
 
